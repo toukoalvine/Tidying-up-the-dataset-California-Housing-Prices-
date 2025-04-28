@@ -1,1 +1,3 @@
 # Tidying-up-the-dataset-California-Housing-Prices-
+As part of the course Data Quality and Data Wrangling, I will practice analyzing a dataset, summarizing its main characteristics, and using visualization techniques to uncover patterns, relationships, and insights. For this purpose, I have chosen the regression dataset " california-housing-prices " from Kaggle, which explores factors influencing the house prices in california.
+For this assignment, I will first examine the dataset to ensure it is clean and ready for analysis. Then, I will carry out the analysis and include visualizations to identify trends and explore the relationships between life expectancy and the various immunization, mortality, economic, and social factors included in the dataset.
